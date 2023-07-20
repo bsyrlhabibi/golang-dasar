@@ -8,6 +8,6 @@ I am delighted to share this project with fellow learners who are interested in 
 
 Let's continue to collaborate and learn together to achieve a deeper understanding of Go. Thank you for checking out this project!
 
-**Special thanks to the @ProgrammerZamanNow for the valuable Go programming resources!"**
+Special thanks to the **@ProgrammerZamanNow** for the valuable Go programming resources!"
 
 #GoLang #Programming #LearnGo #UdemyCourse
